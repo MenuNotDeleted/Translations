@@ -1,7 +1,7 @@
 {
   "ADD": "添加",
-  "ADVERTISE_STARGAZE_DESC": "通過將玩家名稱偽裝成不同顏色的'Stargaze'來宣傳 Stargaze。啟用此選項后您將無法自定義名稱",
-  "ADVERTISE_STARGAZE": "給 Stargaze 打廣告",
+  "ADVERTISE_Stargaze_DESC": "通過將玩家名稱偽裝成不同顏色的'Stargaze'來宣傳 Stargaze。啟用此選項后您將無法自定義名稱",
+  "ADVERTISE_Stargaze": "給 Stargaze 打廣告",
   "ALL_PLAYERS": "所有玩家",
   "ALL": "所有",
   "AMMO": "彈藥",

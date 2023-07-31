@@ -1,7 +1,7 @@
 {
   "ADD": "Añadir",
-  "ADVERTISE_STARGAZE_DESC": "Anuncia Stargaze falsificando los nombres de los jugadores con variantes de 'Stargaze' de distintos colores. No podrás personalizar el nombre con esta opción activada",
-  "ADVERTISE_STARGAZE": "Anunciar Stargaze",
+  "ADVERTISE_Stargaze_DESC": "Anuncia Stargaze falsificando los nombres de los jugadores con variantes de 'Stargaze' de distintos colores. No podrás personalizar el nombre con esta opción activada",
+  "ADVERTISE_Stargaze": "Anunciar Stargaze",
   "ALL_PLAYERS": "Todos los jugadores",
   "ALL": "Todos",
   "AMMO": "Munición",
